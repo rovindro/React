@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NirdeshChahal/SampleReact2.git/static/css/main.cf6654c1.css",
+    "main.js": "/NirdeshChahal/SampleReact2.git/static/js/main.6c0244b1.js",
+    "static/js/787.559a2559.chunk.js": "/NirdeshChahal/SampleReact2.git/static/js/787.559a2559.chunk.js",
+    "index.html": "/NirdeshChahal/SampleReact2.git/index.html",
+    "main.cf6654c1.css.map": "/NirdeshChahal/SampleReact2.git/static/css/main.cf6654c1.css.map",
+    "main.6c0244b1.js.map": "/NirdeshChahal/SampleReact2.git/static/js/main.6c0244b1.js.map",
+    "787.559a2559.chunk.js.map": "/NirdeshChahal/SampleReact2.git/static/js/787.559a2559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf6654c1.css",
+    "static/js/main.6c0244b1.js"
+  ]
+}

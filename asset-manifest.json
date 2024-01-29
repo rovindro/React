@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sample-React/static/css/main.cf6654c1.css",
-    "main.js": "/Sample-React/static/js/main.2337426a.js",
-    "static/js/787.559a2559.chunk.js": "/Sample-React/static/js/787.559a2559.chunk.js",
-    "index.html": "/Sample-React/index.html",
-    "main.cf6654c1.css.map": "/Sample-React/static/css/main.cf6654c1.css.map",
-    "main.2337426a.js.map": "/Sample-React/static/js/main.2337426a.js.map",
-    "787.559a2559.chunk.js.map": "/Sample-React/static/js/787.559a2559.chunk.js.map"
+    "main.css": "/rovindro.github.io/React/static/css/main.cf6654c1.css",
+    "main.js": "/rovindro.github.io/React/static/js/main.c6284f8c.js",
+    "static/js/787.559a2559.chunk.js": "/rovindro.github.io/React/static/js/787.559a2559.chunk.js",
+    "index.html": "/rovindro.github.io/React/index.html",
+    "main.cf6654c1.css.map": "/rovindro.github.io/React/static/css/main.cf6654c1.css.map",
+    "main.c6284f8c.js.map": "/rovindro.github.io/React/static/js/main.c6284f8c.js.map",
+    "787.559a2559.chunk.js.map": "/rovindro.github.io/React/static/js/787.559a2559.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf6654c1.css",
-    "static/js/main.2337426a.js"
+    "static/js/main.c6284f8c.js"
   ]
 }
